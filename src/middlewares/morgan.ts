@@ -6,4 +6,5 @@ class Morgan {
     return _express.use(morgan('dev'));
   }
 }
+
 export default Morgan;
